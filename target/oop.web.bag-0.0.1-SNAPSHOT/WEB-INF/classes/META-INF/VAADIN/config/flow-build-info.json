@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag",
+  "node.version": "v18.12.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag\\target\\frontend",
+  "frontendFolder": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag\\frontend",
+  "connect.javaSourceFolder": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag\\src\\main\\java",
+  "javaResourceFolder": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag\\src\\main\\resources",
+  "connect.applicationProperties": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "D:\\ProiectProgramare\\BagDepoPart3.oop.web.bag\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
